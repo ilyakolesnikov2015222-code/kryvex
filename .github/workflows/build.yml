@@ -19,7 +19,7 @@ jobs:
           ls -la
           echo "--- Распаковываем ---"
           mkdir source
-          unzip -o Kryvex-1.21.4-source.zip -d source
+          unzip -o Kryvex-Client-1.21.4-source.zip -d source
 
       - name: Find project
         run: |
