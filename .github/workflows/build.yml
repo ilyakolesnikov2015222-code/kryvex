@@ -64,3 +64,4 @@ jobs:
         with:
           name: my-app-jar
           path: ${{ env.PROJECT_DIR }}/build/libs/*.jar
+          
